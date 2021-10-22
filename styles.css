@@ -1,0 +1,32 @@
+body {
+    background:url("img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    color: rgb(24, 5, 10);
+}
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.logo {
+    height: 100px;
+    margin-top: 20px;
+}
+.champions {
+    height: 300px;
+    margin-top: 20px;
+}
+.text-description {
+    letter-spacing: 3px;
+    font-family: sans-serif;    
+}
+.form-control {
+    background: transparent !important;
+    color: rgb(10, 13, 19) !important;
+}
+a .fab {
+    color: rgba(43, 51, 99, 0.856);
+    font-size: 40px;
+    margin: 0 20px;
+}
